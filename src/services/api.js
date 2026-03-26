@@ -1,4 +1,4 @@
-const BASE = import.meta.env.VITE_API_URL || 'https://lifeos-backend.onrender.com/api'
+const BASE = import.meta.env.VITE_API_URL || 'https://lifeos-backend-jpk9.onrender.com/api'
 
 let accessToken = null
 
